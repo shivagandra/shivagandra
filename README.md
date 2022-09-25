@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **shivagandra9664@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/Resume-Shiva-Krishna-Gandra](bit.ly/Resume-Shiva-Krishna-Gandra)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
