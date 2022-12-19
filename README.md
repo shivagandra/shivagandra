@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Application Development SUing Flutter.**
 
-- 👨‍💻 All of my projects are available at [shivagandra.devfolio.io](shivagandra.devfolio.io)
+- 👨‍💻 All of my projects are available at [https://shivagandra.devfolio.io](shivagandra.devfolio.io)
 
-- 📝 I regularly write articles on [shivagandra.blogspot.com](shivagandra.blogspot.com)
+- 📝 I regularly write articles on [https://shivagandra.blogspot.com](shivagandra.blogspot.com)
 
 - 💬 Ask me about **Python,Dart,JavaScript,Kubernetes,**
 
