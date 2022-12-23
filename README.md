@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Full stack with microservices & DevOps**
 
-- 🤝 I’m looking for help with **Application Development SUing Flutter.**
+- 🤝 I’m looking for help with **Application Development Using Flutter.**
 
 - 👨‍💻 All of my projects are available at [shivagandra.devfolio.io](https://shivagandra.devfolio.io)
 
