@@ -1,40 +1,125 @@
-<h1 align="center">Hi 👋, I'm Shiva Krishna Gandra</h1>
-<h3 align="center">A passionate developer from India who is keen to build some useful technical stuff for society.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivagandra&label=Profile%20views&color=0e75b6&style=flat" alt="shivagandra" /> </p>
+# 👋 Hi, I'm Shiva Krishna Gandra
 
-- 🔭 I’m currently working on **GCP ACE Certification and Flutter Application Development**
+**Development Analyst @ TCS | Full-Stack • DevOps • Cloud Engineer**
 
-- 🌱 I’m currently learning **Java Full stack with microservices & DevOps**
+*Building scalable software solutions and driving cloud-native innovation.*
 
-- 🤝 I’m looking for help with **Application Development Using Flutter.**
+<img src="https://avatars.githubusercontent.com/u/77003885?v=4" width="120" style="border-radius:50%;" />
 
-- 👨‍💻 All of my projects are available at [shivagandra.devfolio.io](https://shivagandra.devfolio.io)
+---
 
-- 📝 I regularly write articles on [shivagandra.blogspot.com](https://shivagandra.blogspot.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C4?style=flat-for-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivagandra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-for-badge&logo=github&logoColor=white)](https://github.com/shivagandra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-for-badge&logo=gmail&logoColor=white)](mailto:shivagandra9664@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=flat-for-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/shivagandra)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1E883C?style=flat-for-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shiva_2000031735)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B2D8E?style=flat-for-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivagadra01)
 
-- 💬 Ask me about **Python,Dart,JavaScript,Kubernetes,**
+</div>
 
-- 📫 How to reach me **shivagandra9664@gmail.com**
+---
 
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shivagandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivagandra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivagandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivagandra" height="30" width="40" /></a>
-<a href="https://instagram.com/__.shivagandra.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.shivagandra.__" height="30" width="40" /></a>
-<a href="https://medium.com/@shivagandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivagandra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivagadra01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivagadra01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shiva_2000031735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiva_2000031735" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shivagandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivagandra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivagandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivagandra" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/klu_2000031735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="klu_2000031735" height="30" width="40" /></a>
-</p>
+I'm a **Development Analyst at TCS**, working on enterprise-grade banking software (TCS BaNCS). With a background spanning **full-stack development, DevOps, cloud infrastructure, and machine learning**, I thrive at the intersection of building and shipping reliable software at scale.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🎓 **B.Tech in Computer Science** — K L University (GPA: 9.19/10)
+- 🏢 Currently contributing to **Java-based enterprise applications** at TCS
+- ☁️ Passionate about **AWS cloud infrastructure**, **CI/CD automation**, and **containerization**
+- 🤖 Explored **Federated Machine Learning** for IoT predictive maintenance during my time at Samsung R&D
+- 🏫 Former **Google Cloud & Flutter Lead** at Google Developer Student Clubs (GDSC), K L University
 
+---
 
+## 💼 Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivagandra&show_icons=true&locale=en" alt="shivagandra" /></p>
+| Role | Company | Duration |
+|---|---|---|
+| Development Analyst | Tata Consultancy Services (TCS) | Jun 2024 – Present |
+| DevOps Engineering Intern | Safertek Software LLC | Nov 2023 – Mar 2024 |
+| Research Intern | Samsung R&D Institute India | Sep 2022 – Mar 2023 |
 
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-for-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-for-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-for-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-for-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-for-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C8?style=flat-for-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479C1?style=flat-for-badge&logoColor=white)
+
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat-for-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-for-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-for-badge&logo=django&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-for-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-for-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE6?style=flat-for-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=flat-for-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292E?style=flat-for-badge&logo=githubactions&logoColor=white)
+![RedHat Linux](https://img.shields.io/badge/RedHat_Linux-EE0000?style=flat-for-badge&logo=redhat&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-for-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=flat-for-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-for-badge&logo=mongodb&logoColor=white)
+
+### ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-for-badge&logo=tensorflow&logoColor=white)
+![Flower](https://img.shields.io/badge/Flower_Framework-FFD700?style=flat-for-badge&logoColor=black)
+
+---
+
+## 📦 Featured Projects
+
+### 🤖 Federated Learning for IoT Predictive Maintenance
+> **ML · AWS · Flower Framework · gRPC**
+
+Built a decentralized ML model using the **Flower framework** for secure, distributed training across IoT edge devices. Compared multiple ML algorithms and optimized the model to improve predictive maintenance efficiency by **30%**. Deployed on AWS for scalability.
+
+---
+
+### 📱 KL Connect Application
+> **Flutter · Node.js · SQL · REST API · AWS Cognito · WebSockets**
+
+A cross-platform communication app bridging universities and parents. Features real-time messaging via WebSockets, secure authentication through AWS Cognito, and a modular Node.js backend with RESTful APIs.
+
+---
+
+### 📚 Library Management System
+> **Java · Spring Boot · PostgreSQL · AWS**
+
+A full-featured library management platform with automated notifications (Spring Mail), integrated payment gateway for fine management, and a scalable Spring Boot backend with PostgreSQL.
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer |
+|---|---|
+| AWS Certified DevOps Engineer – Professional | Amazon Web Services |
+| AWS Certified Developer – Associate | Amazon Web Services |
+| Cloud & DevOps Associate | EPAM |
+| Certified Enterprise Application Developer | Red Hat |
+| Multi-Cloud Networking Associate | Aviatrix |
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborations, interesting projects, or just a good chat about tech. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C4?style=flat-for-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivagandra)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=flat-for-badge&logo=gmail&logoColor=white)](mailto:shivagandra9664@gmail.com)
+
+</div>
